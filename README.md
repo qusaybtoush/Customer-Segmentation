@@ -1,0 +1,2 @@
+# Customer-Segmentation
+Customer data is defined as the information your customers provide while interacting with your business via your website, mobile applications, surveys, social media, marketing campaigns, and other online and offline avenues. Customer data is a cornerstone to a successful business strategy. Data-driven organizations realize the importance of this and take action to ensure that they collect the necessary customer data points that would enable them to improve customer experience and fine-tune business strategy over time.
